@@ -1,0 +1,21 @@
+.jumbotron{
+    padding-top: 80px;
+    background-color: #76373C;
+    color: white;
+}
+
+#destination{
+    background-color: #76373C;
+}
+
+#destination h2{
+    color: white;
+}
+
+section{
+    padding-top: 5rem;
+}
+
+footer{
+    background-color: #4c2028;
+}
